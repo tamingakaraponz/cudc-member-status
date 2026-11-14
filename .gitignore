@@ -1,0 +1,14 @@
+# Member data and exports
+*.xlsx
+*.xls
+*.csv
+*.tsv
+*.ods
+# Local secrets and tooling
+.env
+.env.*
+.clasp.json
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
